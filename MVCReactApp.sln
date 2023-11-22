@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCReactApp.Server", "MVCReactApp.Server\MVCReactApp.Server.csproj", "{363BA4DA-4781-4223-99F7-BE779AC82214}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mvcreactapp.client", "mvcreactapp.client\mvcreactapp.client.esproj", "{4CE40BC5-A476-4E69-9543-992C62CF8B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363BA4DA-4781-4223-99F7-BE779AC82214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363BA4DA-4781-4223-99F7-BE779AC82214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363BA4DA-4781-4223-99F7-BE779AC82214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363BA4DA-4781-4223-99F7-BE779AC82214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE40BC5-A476-4E69-9543-992C62CF8B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE40BC5-A476-4E69-9543-992C62CF8B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE40BC5-A476-4E69-9543-992C62CF8B37}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4CE40BC5-A476-4E69-9543-992C62CF8B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE40BC5-A476-4E69-9543-992C62CF8B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE40BC5-A476-4E69-9543-992C62CF8B37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27CF4B0E-B82B-4A55-B27F-0FCB9968AB6F}
+	EndGlobalSection
+EndGlobal
